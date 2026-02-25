@@ -1,4 +1,4 @@
-# 📱 Instagram & TikTok Style Feed App (React Native, Expo, Supabase) - Ultimate Open-Source Template
+# 📱 Instagram Feed App (React Native, Expo, Supabase) - Ultimate Open-Source Template
 
 A high-performance, open-source **Instagram Reels & TikTok clone** and **social media feed template** built with **React Native**, **Expo**, and **Supabase**. This project features a fully optimized **Instagram Reels vertical video feed**, separated Home and Reels tabs, post creation with media support, cache synchronization, and robust backend integration.
 
