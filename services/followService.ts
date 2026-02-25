@@ -1,0 +1,1 @@
+export const followService = { getFollowingIds: async (userId: string) => [] as string[], followUser: async (userId: string) => true, unfollowUser: async (userId: string) => true, subscribeToFollowChanges: (userId: string, callback: any) => ({ unsubscribe: () => {} }) };
