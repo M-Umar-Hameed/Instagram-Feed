@@ -63,7 +63,6 @@ SUPABASE_PROJECT_ID=your_project_id
 2. Run the exact code found in `supabase/migrations/SUPABASE_SETUP.sql`. This single file will magically create:
    - All necessary structured tables (`users`, `circle_posts`, etc.)
    - Mandatory RLS (Row Level Security) Policies.
-   - The heavily optimized `get_ranked_feed` RPC function used for the main chronological and ranked feeds.
 3. Go to **Storage** and ensure a bucket named `public-media` is created and naturally set to **Public**.
 
 ### 4. Install Dependencies & Run
